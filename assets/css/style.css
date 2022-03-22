@@ -41,7 +41,7 @@ header h1 {
   margin-left: 47px;
   margin-top: 35px;  
 }
-flexacross {
+.flexacross {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -55,6 +55,10 @@ flexacross {
   color: var(--bluegray);
   border-right: 4px solid var(--bluegray);
 }
+
+.work-container
+  display: flex;
+
 
 .imagecontainer {
   position: relative;
