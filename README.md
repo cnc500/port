@@ -11,13 +11,12 @@ Flexbox was used extensively, and the Refactoring project link is tied to the la
 
 Alternatives have been provided in case images fail to load.
 
-All the above has been accomplished while still maintaining same output/webpage.
 
 Deployment
 
 The deployment of the webpage was successful and is at https://cnc500.github.io/Port/
 
-A screenshot of it is below: 
+Screenshots of it are below: 
 
 ![Screenshot1]Screenshot1.png
 ![Screenshot2]Screenshot2.png
