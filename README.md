@@ -18,6 +18,6 @@ The deployment of the webpage was successful and is at https://cnc500.github.io/
 
 Screenshots of it are below: 
 
-![Screenshot1]Screenshot1.png
-![Screenshot2]Screenshot2.png
-![Screenshot3]Screenshot3.png
+![Screenshot1](Screenshot1.png)
+![Screenshot2](Screenshot2.png)
+![Screenshot3](Screenshot3.png)
