@@ -63,17 +63,10 @@ header h1 {
 .imagecontainer {
   position: relative;
 }
-.contact {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  font-size: 24px;
-  color: var(--bluegray);
-}
 
 #aimhigh {
   position: absolute;
-  bottom: 32px;
+  bottom: 62px;
   right: 65px;
   font-size: 38px;
   box-sizing: border-box;
@@ -91,12 +84,7 @@ header h1 {
   background-color: lightblue;
 }
 
-.flexacross {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
+
 .imagerow {
   position: relative;
 }
@@ -104,7 +92,7 @@ header h1 {
   position: absolute;
   bottom: 22px;
   left: 17px;
-  font-size: 20px;
+  font-size: 22px;
   box-sizing: border-box;
   background-color: lightblue;
 }
@@ -146,4 +134,21 @@ header h1 {
   width: 48.1%; 
   border: 4px solid lightblue;
   
+}
+.flexacross2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 90px;
+}   
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.space {
+  margin: 10px;
+  font-size: 24px;
+  color: var(--bluegray);
 }
