@@ -1,28 +1,20 @@
 # port
-Refactoring Horiseon Code
+Portfolio
 
-The purpose of this assignment is to make this code more streamlined, understandable, robust and sustainable. While the code is better optimized, the the webpage has not changed.
+The purpose of this assignment is to my personal portfolio to showcase my work and to provide my my potential employers information about me.
 
 Accomplishments
 
-Numerous html elements were renamed to better understand the flow and purpose of the code.
+You can click on my work to date and a link takes you to the repositories where my work resides.  Note that there are only two assignments so far, and Projects 3,4 and 5 serve as placeholders for future projects, 
 
-The styling of the HTML elements has been reset to a baseline.
-
-The title of has been renamed from webpage to Horiseon Marketing Webpage.
+Flexbox was used extensively, and the Refactoring project link is tied to the large image above the four smaller ones.  There is, however some work tobe done such as having all the project links tied to their respective images.  Nevertheless, using Flexbox will help with the accessibility of this page on multiple devices.
 
 Alternatives have been provided in case images fail to load.
-
-Number of classes have been significantly reduced to eliminate repetitive values and to reduce code size, improve both readability and efficiency.
-
-Variables added to decrease repetitive values.
-
-Eliminated area of code (list-type-display: none) not impacting result--documented in style.css file.
 
 All the above has been accomplished while still maintaining same output/webpage.
 
 Deployment
 
-The deployment of the webpage was successful and is at https://cnc500.github.io/Carnelin/
+The deployment of the webpage was successful and is at https://cnc500.github.io/Port/
 
 A screenshot of it is below:

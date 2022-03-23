@@ -56,9 +56,9 @@ header h1 {
   border-right: 6px solid var(--bluegray);
 }
 
-.work-container
-  display: flex;
-
+.work-container {
+  /* display: flex; */
+}
 
 .imagecontainer {
   position: relative;
