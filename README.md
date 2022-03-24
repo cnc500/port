@@ -21,3 +21,11 @@ Screenshots of it are below:
 ![Screenshot1](Screenshot1.png)
 ![Screenshot2](Screenshot2.png)
 ![Screenshot3](Screenshot3.png)
+
+
+References
+
+depositphotos.com
+U.S. Department of Defense
+stripes.com
+istockphoto.com
