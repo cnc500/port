@@ -50,6 +50,7 @@ header h1 {
   flex-direction: row;
   justify-content: space-between;
   padding-left: 15vw;
+  
 }   
   
 .alignright {
@@ -61,7 +62,13 @@ header h1 {
 }
 
 .work-container {
+  padding-top: 2.3vw;
+  padding-bottom: 2.3vw;
   /* display: flex; */
+}
+
+.linkedIn {
+  padding-right: 30px;
 }
 
 .imagecontainer {
@@ -166,7 +173,8 @@ header h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+  padding-top: 2.0vw;
+  padding-bottom: 2.0vw;
 }
 .space {
   margin: 10px;
