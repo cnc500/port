@@ -59,10 +59,10 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding-left: 15vw;
 }   
   
 .alignright {
+  width: 15%;
   text-align: right;
   padding-right: 8px;
   font-size: 45px;
@@ -70,10 +70,14 @@ header {
   border-right: 6px solid var(--bluegray); 
 }
 
+.container, .contact {
+  width: 84%;
+}
+
 .work-container {
   padding-top: 2.3vw;
   padding-bottom: 2.3vw;
-  /* display: flex; */
+  width: 84%;
 }
 
 .linkedIn {
@@ -186,10 +190,10 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding-left: 90px;
 }   
 
 .contact {
+  width: 84%;
   display: flex;
   justify-content: space-between;
   align-items: center;
