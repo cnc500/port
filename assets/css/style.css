@@ -78,6 +78,11 @@ header {
   padding-top: 2.3vw;
   padding-bottom: 2.3vw;
   width: 84%;
+  position: relative;
+}
+
+.starProject {
+  position: relative;
 }
 
 .linkedIn {
@@ -101,14 +106,10 @@ header {
   color: rgb(1, 1, 75);
 }
 
-.work-container {
-  position: relative;
-}
-
 .projectlink {
   position: absolute;
-  bottom: 1030px;
-  left: 17px;
+  bottom: 5%;
+  left: 2%;
   font-size: 22px;
   box-sizing: border-box;
   background-color: lightblue;
