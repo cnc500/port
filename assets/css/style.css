@@ -55,6 +55,16 @@ header {
   margin-top: 35px;  
 }
 
+.text2 {  
+  display: flex;
+  justify-content: flex-start;
+  align-content: left 20px;
+  flex-wrap: wrap;
+  margin-right: 3%;
+  margin-left: 15px;
+  margin-top: 10px;  
+}
+
 .flexacross {
   display: flex;
   flex-direction: row;
@@ -70,8 +80,13 @@ header {
   border-right: 6px solid var(--bluegray); 
 }
 
+.extraborder {
+  padding-bottom: 1%; ;
+}
+
 .container, .contact {
   width: 84%;
+  height: 100%;
 }
 
 .work-container {
@@ -120,6 +135,8 @@ header {
 
 .imagerow {
   position: relative;
+  display: flex;
+  justify-content: space-between;
 }
 
 .projectlink2 {
@@ -137,7 +154,7 @@ header {
 .projectlink3 {
   position: absolute;
   bottom: 22px;
-  left: 695px;
+  right: 32px;
   font-size: 20px;
   box-sizing: border-box;
   background-color: lightblue;
@@ -161,7 +178,7 @@ header {
 .projectlink5 {
   position: absolute;
   bottom: 22px;
-  left: 688px;
+  right: 32px;
   font-size: 20px;
   box-sizing: border-box;
   background-color: lightblue;
@@ -171,19 +188,19 @@ header {
 }
 
 .image2 {
-  width: 98%;
+  width: 99%;
   border:4px solid lightblue;
   margin-left: 1%;
 }
 
 .image3 {
-  width: 48.1%; 
+  width: 99%; 
   border: 4px solid lightblue;
   margin-left: 1%;
 }
 
 .image4 {
-  width: 48.1%; 
+  width: 99%; 
   border: 4px solid lightblue;
   
 }
