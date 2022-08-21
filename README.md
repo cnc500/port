@@ -19,9 +19,10 @@ The deployment of the webpage was successful and is at https://cnc500.github.io/
 
 ## Screenshots 
 
-![Screenshot1](Screenshot1.png)
-![Screenshot2](Screenshot2wx.png)
-![Screenshot3](Screenshot3.png)
+![Screenshot1](PortScreenshot1.png)
+![Screenshot2](PortScreenshot2.png)
+![Screenshot3](PortScreenshot3.png)
+![Screenshot3](PortScreenshot4.png)
 
  ## Questions
   ###   GitHub Username:  cnc500
