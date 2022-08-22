@@ -131,6 +131,7 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
+  border: 5px solid var(--bluegray);
 }
 
 .imagerow {
@@ -149,6 +150,7 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
+  border: 5px solid var(--bluegray);
 }
 
 .projectlink3 {
@@ -161,6 +163,8 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
+  border: 5px solid var(--bluegray);
+
 }
 
 .projectlink4 {
@@ -173,6 +177,7 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
+  border: 5px solid var(--bluegray);
 }
 
 .projectlink5 {
@@ -185,6 +190,7 @@ header {
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
+  border: 5px solid var(--bluegray);
 }
 
 .image2 {
@@ -211,8 +217,9 @@ header {
 }   
 
 .contact {
-  width: 84%;
+  width: 64%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   padding-top: 2.0vw;
@@ -228,4 +235,19 @@ header {
 .mypicture {
   width: 100px;
   height: 100px;
+}
+
+@media screen and (max-width: 1228px) {
+  .alignright {
+    font-size: 24px;
+  }
+  .space {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .alignright {
+    font-size: 12px;
+  }
 }
