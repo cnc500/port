@@ -243,11 +243,46 @@ header {
   }
   .space {
     font-size: 16px;
+    margin-left: 30px;
   }
 }
+
+@media screen and (max-width: 670px) {
+  .projectlink, .projectlink2, .projectlink3, .projectlink4, .projectlink5 {
+    font-size: 16px;
+  }
+  .name{
+    font-size: 22px;
+    margin-left: 30px;
+  }  
+  #aimhigh {
+    bottom: 32px;
+    right: 35px;
+    font-size: 18px;
+  }
+  .headers_right {
+    font-size: 14px
+  }
+
+}
+
 
 @media screen and (max-width: 590px) {
   .alignright {
     font-size: 12px;
   }
+}
+
+@media screen and (max-width: 500px) {
+  .projectlink, .projectlink2, .projectlink3, .projectlink4, .projectlink5 {
+    font-size: 13px;
+  }
+  .headers_right {
+    font-size: 12px
+  }
+  .name{
+    font-size: 15px;
+    margin-left: 20px;
+  }
+
 }
